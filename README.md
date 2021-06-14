@@ -1,4 +1,4 @@
-# Halomli_SITE
+# Halomli Website
 * Convert PSD file into full responsive(BootStrap 3) HTML template
 * Fully functional Dashboard
 * Custom Land Page
